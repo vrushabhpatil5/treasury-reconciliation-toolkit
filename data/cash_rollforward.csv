@@ -1,0 +1,13 @@
+account,opening_balance,txn_number,amount
+USD Operating,182430,1,12500
+USD Operating,182430,2,-84200
+USD Operating,182430,3,-3300.75
+USD Operating,182430,4,250000
+USD Operating,182430,5,-22000
+EUR Operating,96500,1,-9600.5
+EUR Operating,96500,2,-60000
+EUR Operating,96500,3,4750
+EUR Operating,96500,4,-18400
+GBP Operating,41200,1,-7200
+GBP Operating,41200,2,-2100.2
+GBP Operating,41200,3,15000

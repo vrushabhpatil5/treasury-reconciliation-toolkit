@@ -1,0 +1,31 @@
+date,entity,currency,counterparty,amount_usd_eq
+2026-07-01,Diamond India,USD,Vendor A,15113.41
+2026-07-02,Diamond UK,INR,Vendor B,7467.53
+2026-07-03,Diamond US,GBP,Vendor C,29571.3
+2026-07-04,Diamond India,GBP,Landlord,4001.68
+2026-07-05,Diamond UK,EUR,Consulting Co,24485.98
+2026-07-06,Diamond US,USD,Insurer,16963.45
+2026-07-07,Diamond India,USD,Payroll Provider,3363.55
+2026-07-08,Diamond UK,INR,Vendor A,23228.66
+2026-07-09,Diamond US,GBP,Vendor B,2457.31
+2026-07-10,Diamond India,GBP,Vendor C,19967.14
+2026-07-11,Diamond UK,EUR,Landlord,3887.61
+2026-07-12,Diamond US,USD,Consulting Co,4809.52
+2026-07-13,Diamond India,USD,Insurer,19563.75
+2026-07-14,Diamond UK,INR,Payroll Provider,37346.86
+2026-07-15,Diamond US,GBP,Vendor A,6272.05
+2026-07-16,Diamond India,GBP,Vendor B,10667.16
+2026-07-17,Diamond UK,EUR,Vendor C,28532.55
+2026-07-18,Diamond US,USD,Landlord,42688.74
+2026-07-19,Diamond India,USD,Consulting Co,26307.95
+2026-07-20,Diamond UK,INR,Insurer,18333.28
+2026-07-01,Diamond US,GBP,Payroll Provider,43950.48
+2026-07-02,Diamond India,GBP,Vendor A,2858.95
+2026-07-03,Diamond UK,EUR,Vendor B,38744.31
+2026-07-04,Diamond US,USD,Vendor C,13600.73
+2026-07-05,Diamond India,USD,Landlord,7176.07
+2026-07-06,Diamond UK,INR,Consulting Co,6006.42
+2026-07-07,Diamond US,GBP,Insurer,14434.9
+2026-07-08,Diamond India,GBP,Payroll Provider,36872.79
+2026-07-09,Diamond UK,EUR,Vendor A,8788.11
+2026-07-10,Diamond US,USD,Vendor B,26506.73

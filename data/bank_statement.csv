@@ -1,0 +1,15 @@
+ref,date,description,currency,amount
+WT-1001,2026-07-01,Wire - Vendor A,USD,12500
+WT-1002,2026-07-01,Wire - Payroll funding,USD,84200
+WT-1003,2026-07-02,Wire - Vendor B,EUR,9600.5
+WT-1004,2026-07-02,Intercompany transfer,USD,250000
+WT-1005,2026-07-03,Wire - Vendor C,USD,15000
+WT-1006,2026-07-03,Wire - Landlord,GBP,7200
+WT-1007,2026-07-04,Wire - Vendor D,USD,3300.75
+WT-1008,2026-07-04,Intercompany transfer,EUR,60000
+WT-1009,2026-07-05,Wire - Vendor E,EUR,18400
+WT-1010,2026-07-05,Wire - Insurance,USD,5600
+WT-1011,2026-07-06,Wire - Vendor F,GBP,2100.2
+WT-1012,2026-07-06,Wire - Consulting fee,USD,22000
+WT-1013,2026-07-07,Wire - Vendor G,EUR,4750
+WT-1014,2026-07-07,Wire - Vendor H (in transit),USD,8900

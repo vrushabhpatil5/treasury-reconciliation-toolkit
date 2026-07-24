@@ -135,3 +135,13 @@ Ideas for taking this further:
   for reviewing and annotating breaks instead of reading a flat file.
 - Add multi-leg matching for intercompany transfers that show up as two
   separate ledger entries.
+
+## About
+
+Built as an educational/portfolio project to practice reconciliation
+workflows relevant to fund accounting, treasury, and middle-office
+operations roles. Sample data is fictional (originally drawn from a
+practice workbook), not real financial data.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/vrushabh-patil-finance/) —
+happy to talk through the design or take feedback.

@@ -50,7 +50,11 @@ st.set_page_config(
 
 def style_status(df: pd.DataFrame) -> "pd.io.formats.style.Styler":
     def _color(val: str) -> str:
-        return f"background-color: {STATUS_COLORS.get(val, '')}"
+        bg = STATUS_COLORS.get(val, "")
+        # Force black text: the pastel backgrounds are light regardless of
+        # whether the app is rendered in Streamlit's light or dark theme,
+        # and the dark theme's default white text is unreadable on them.
+        return f"background-color: {bg}; color: #000000;"
 
     return df.style.map(_color, subset=["status"])
 
